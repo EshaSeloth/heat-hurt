@@ -3,7 +3,7 @@ A machine learning project that predicts hair damage caused by heat styling tool
 
 #damage-scale 
 0 - No damage, your hair is healthy 
-1 - Very mild, keep an eye on your hair 
+1 - Very mild, keep an eye on your hair  
 2 - mild, consider reducing heat usage 
 3 - moderate, reduce heat styling frequency 
 4 - high, significantly reduce heat usage 
