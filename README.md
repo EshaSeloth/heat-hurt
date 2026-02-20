@@ -13,7 +13,8 @@ A machine learning project that predicts hair damage caused by heat styling tool
 Python (pandas, matplotlib, scikit-learn)
 MySQL 
 
-# Sample-input
+
+#Sample-input
 | Tool         | Temperature | Duration | Frequency | Hair Type |
 |--------------|-------------|----------|-----------|-----------|
 | Straightener | 230°C       | 45 mins  | Daily     | Curly     |
